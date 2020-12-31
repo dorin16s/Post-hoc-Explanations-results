@@ -1,0 +1,745 @@
+,userId,date,window,desc,data,explanation,explain_id,Algorithm,mID,imdbClicked,rating
+18,259,2020-04-20T21:13:03,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:550:0:3,,0,AE,550,0,3
+19,259,2020-04-20T21:13:03,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:489:0:5,,0,AE,489,0,5
+20,259,2020-04-20T21:13:03,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:745:0:5,,0,popular,745,0,5
+23,259,2020-04-20T21:13:34,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:27205:0:2,,0,MF,27205,0,2
+24,259,2020-04-20T21:13:34,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:152532:0:5,,0,popular,152532,0,5
+25,259,2020-04-20T21:13:34,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:155:0:1,,0,MF,155,0,1
+19,203,2020-04-19T20:22:07,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:100402:1:3,,0,AE,100402,1,3
+20,203,2020-04-19T20:22:07,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:109445:0:4,,0,popular,109445,0,4
+21,203,2020-04-19T20:22:07,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:24428:1:5,,0,AE,24428,1,5
+24,203,2020-04-19T20:22:14,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:122:1:5,,0,popular,122,1,5
+25,203,2020-04-19T20:22:14,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:76341:0:2,,0,MF,76341,0,2
+26,203,2020-04-19T20:22:14,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:27205:0:5,,0,MF,27205,0,5
+19,204,2020-04-19T20:32:00,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:1771:1:5,,0,AE,1771,1,5
+20,204,2020-04-19T20:32:00,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:24428:0:5,,0,AE,24428,0,5
+21,204,2020-04-19T20:32:00,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:152601:1:2,,0,popular,152601,1,2
+25,204,2020-04-19T20:32:08,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:7345:1:3,,0,popular,7345,1,3
+26,204,2020-04-19T20:32:08,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:76341:1:4,,0,MF,76341,1,4
+27,204,2020-04-19T20:32:08,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:27205:0:2,,0,MF,27205,0,2
+18,205,2020-04-19T21:04:16,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:6557:0:5,,0,AE,6557,0,5
+19,205,2020-04-19T21:04:16,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:106646:0:5,,0,popular,106646,0,5
+20,205,2020-04-19T21:04:16,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:4688:0:5,,0,AE,4688,0,5
+23,205,2020-04-19T21:04:20,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:8835:0:5,,0,MF,8835,0,5
+24,205,2020-04-19T21:04:20,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:11324:0:5,,0,popular,11324,0,5
+25,205,2020-04-19T21:04:20,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9880:0:5,,0,MF,9880,0,5
+18,206,2020-04-20T08:14:20,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:155:0:5,,0,AE,155,0,5
+19,206,2020-04-20T08:14:20,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:38757:0:3,,0,popular,38757,0,3
+20,206,2020-04-20T08:14:20,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:27205:0:3,,0,AE,27205,0,3
+23,206,2020-04-20T08:14:35,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:293660:0:5,,0,MF,293660,0,5
+24,206,2020-04-20T08:14:35,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:111969:0:1,,0,MF,111969,0,1
+25,206,2020-04-20T08:14:35,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:18:0:1,,0,popular,18,0,1
+18,207,2020-04-20T08:23:06,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:190859:0:3,,0,popular,190859,0,3
+19,207,2020-04-20T08:23:06,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:27205:0:4,,0,AE,27205,0,4
+20,207,2020-04-20T08:23:06,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:6557:0:5,,0,AE,6557,0,5
+23,207,2020-04-20T08:23:28,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:222935:0:4,,0,popular,222935,0,4
+24,207,2020-04-20T08:23:28,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9655:0:4,,0,MF,9655,0,4
+25,207,2020-04-20T08:23:28,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:50619:1:4,,0,MF,50619,1,4
+18,208,2020-04-20T09:28:48,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:283995:0:3,,0,popular,283995,0,3
+19,208,2020-04-20T09:28:48,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:205596:0:4,,0,AE,205596,0,4
+20,208,2020-04-20T09:28:48,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:27205:0:5,,0,AE,27205,0,5
+23,208,2020-04-20T09:29:00,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:155:0:5,,0,MF,155,0,5
+24,208,2020-04-20T09:29:00,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:550:0:5,,0,MF,550,0,5
+25,208,2020-04-20T09:29:00,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:10193:0:2,,0,popular,10193,0,2
+18,209,2020-04-20T10:39:46,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:155:0:5,,0,AE,155,0,5
+19,209,2020-04-20T10:39:46,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:137106:0:3,,0,popular,137106,0,3
+20,209,2020-04-20T10:39:46,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:603:0:4,,0,AE,603,0,4
+23,209,2020-04-20T10:39:54,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:306819:0:1,,0,MF,306819,0,1
+24,209,2020-04-20T10:39:54,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:329865:0:1,,0,MF,329865,0,1
+25,209,2020-04-20T10:39:54,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:22:0:3,,0,popular,22,0,3
+18,211,2020-04-20T12:28:49,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:155:0:5,,0,AE,155,0,5
+19,211,2020-04-20T12:28:49,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:857:0:5,,0,AE,857,0,5
+20,211,2020-04-20T12:28:49,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:1422:0:5,,0,popular,1422,0,5
+23,211,2020-04-20T12:28:56,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:19995:0:3,,0,popular,19995,0,3
+24,211,2020-04-20T12:28:56,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:70160:0:3,,0,MF,70160,0,3
+25,211,2020-04-20T12:28:56,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:122:0:5,,0,MF,122,0,5
+18,212,2020-04-20T14:22:37,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:120:0:5,,0,AE,120,0,5
+19,212,2020-04-20T14:22:37,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:119450:0:5,,0,popular,119450,0,5
+20,212,2020-04-20T14:22:37,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:671:0:5,,0,AE,671,0,5
+23,212,2020-04-20T14:22:52,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:109424:1:3,,0,popular,109424,1,3
+24,212,2020-04-20T14:22:52,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:4951:0:1,,0,MF,4951,0,1
+25,212,2020-04-20T14:22:52,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9880:0:1,,0,MF,9880,0,1
+18,213,2020-04-20T15:28:54,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:767:0:5,,0,AE,767,0,5
+19,213,2020-04-20T15:28:54,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:141:0:4,,0,popular,141,0,4
+20,213,2020-04-20T15:28:54,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:673:0:5,,0,AE,673,0,5
+23,213,2020-04-20T15:29:06,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:57158:0:2,,0,popular,57158,0,2
+24,213,2020-04-20T15:29:06,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:76341:0:2,,0,MF,76341,0,2
+25,213,2020-04-20T15:29:06,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:27205:0:3,,0,MF,27205,0,3
+18,216,2020-04-20T18:36:32,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:14160:0:5,,0,popular,14160,0,5
+19,216,2020-04-20T18:36:32,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:121:0:5,,0,AE,121,0,5
+20,216,2020-04-20T18:36:32,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:671:0:5,,0,AE,671,0,5
+23,216,2020-04-20T18:36:49,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:49026:0:5,,0,popular,49026,0,5
+24,216,2020-04-20T18:36:49,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:381284:0:3,,0,MF,381284,0,3
+25,216,2020-04-20T18:36:49,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:122:0:5,,0,MF,122,0,5
+18,219,2020-04-20T18:44:00,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:13475:0:3,,0,popular,13475,0,3
+19,219,2020-04-20T18:44:00,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:19995:0:4,,0,AE,19995,0,4
+20,219,2020-04-20T18:44:00,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:27205:0:3,,0,AE,27205,0,3
+23,219,2020-04-20T18:44:28,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:50619:0:5,,0,MF,50619,0,5
+24,219,2020-04-20T18:44:28,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:24021:0:3,,0,MF,24021,0,3
+25,219,2020-04-20T18:44:28,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:12405:0:2,,0,popular,12405,0,2
+18,220,2020-04-20T18:43:53,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:11036:0:5,,0,AE,11036,0,5
+19,220,2020-04-20T18:43:53,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:38757:0:2,,0,popular,38757,0,2
+20,220,2020-04-20T18:43:53,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:222935:0:5,,0,AE,222935,0,5
+23,220,2020-04-20T18:44:14,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:10481:0:1,,0,MF,10481,0,1
+24,220,2020-04-20T18:44:14,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:194662:0:1,,0,popular,194662,0,1
+25,220,2020-04-20T18:44:14,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9880:0:1,,0,MF,9880,0,1
+18,223,2020-04-20T18:47:06,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:155:0:4,,0,popular,155,0,4
+19,223,2020-04-20T18:47:06,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:862:0:3,,0,AE,862,0,3
+20,223,2020-04-20T18:47:06,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:27205:0:4,,0,AE,27205,0,4
+23,223,2020-04-20T18:47:31,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:263115:0:5,,0,popular,263115,0,5
+24,223,2020-04-20T18:47:31,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:50619:0:1,,0,MF,50619,0,1
+25,223,2020-04-20T18:47:31,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:200727:0:3,,0,MF,200727,0,3
+18,224,2020-04-20T18:45:44,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:675:0:5,,0,AE,675,0,5
+19,224,2020-04-20T18:45:44,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:98:0:1,,0,popular,98,0,1
+20,224,2020-04-20T18:45:44,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:12444:0:5,,0,AE,12444,0,5
+23,224,2020-04-20T18:46:05,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:50619:0:3,,0,MF,50619,0,3
+24,224,2020-04-20T18:46:05,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:11247:0:5,,0,MF,11247,0,5
+25,224,2020-04-20T18:46:05,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:73:0:3,,0,popular,73,0,3
+18,225,2020-04-20T18:53:21,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:550:0:5,,0,AE,550,0,5
+19,225,2020-04-20T18:53:21,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:259316:0:5,,0,popular,259316,0,5
+20,225,2020-04-20T18:53:21,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:155:0:5,,0,AE,155,0,5
+23,225,2020-04-20T18:53:41,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:50619:1:5,,0,MF,50619,1,5
+24,225,2020-04-20T18:53:41,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:24021:0:5,,0,MF,24021,0,5
+25,225,2020-04-20T18:53:41,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:629:0:5,,0,popular,629,0,5
+20,226,2020-04-20T19:01:54,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:6557:0:5,,0,AE,6557,0,5
+21,226,2020-04-20T19:01:54,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:296096:0:2,,0,popular,296096,0,2
+22,226,2020-04-20T19:01:54,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:10096:0:5,,0,AE,10096,0,5
+25,226,2020-04-20T19:02:08,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:10481:0:3,,0,MF,10481,0,3
+26,226,2020-04-20T19:02:08,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:168259:0:3,,0,popular,168259,0,3
+27,226,2020-04-20T19:02:08,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9880:0:5,,0,MF,9880,0,5
+18,228,2020-04-20T19:11:43,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:674:0:5,,0,AE,674,0,5
+19,228,2020-04-20T19:11:43,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:76203:0:4,,0,popular,76203,0,4
+20,228,2020-04-20T19:11:43,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:671:0:5,,0,AE,671,0,5
+24,228,2020-04-20T19:12:01,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:10761:0:2,,0,MF,10761,0,2
+25,228,2020-04-20T19:12:01,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:949:0:1,,0,popular,949,0,1
+26,228,2020-04-20T19:12:01,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:10735:0:1,,0,MF,10735,0,1
+18,229,2020-04-20T19:11:42,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:675:0:5,,0,AE,675,0,5
+19,229,2020-04-20T19:11:42,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:296096:0:4,,0,popular,296096,0,4
+20,229,2020-04-20T19:11:42,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:671:0:5,,0,AE,671,0,5
+23,229,2020-04-20T19:11:56,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:112949:0:4,,0,MF,112949,0,4
+24,229,2020-04-20T19:11:56,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:50619:0:5,,0,MF,50619,0,5
+25,229,2020-04-20T19:11:56,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:324786:0:5,,0,popular,324786,0,5
+18,230,2020-04-20T19:14:07,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:6557:0:3,,0,AE,6557,0,3
+19,230,2020-04-20T19:14:07,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:4951:0:4,,0,AE,4951,0,4
+20,230,2020-04-20T19:14:07,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:857:0:2,,0,popular,857,0,2
+23,230,2020-04-20T19:14:23,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:77:0:3,,0,popular,77,0,3
+24,230,2020-04-20T19:14:23,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9880:0:4,,0,MF,9880,0,4
+25,230,2020-04-20T19:14:23,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:10481:0:4,,0,MF,10481,0,4
+18,232,2020-04-20T19:18:15,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:603:0:2,,0,AE,603,0,2
+19,232,2020-04-20T19:18:15,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:597:0:5,,0,AE,597,0,5
+20,232,2020-04-20T19:18:15,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:13223:0:3,,0,popular,13223,0,3
+23,232,2020-04-20T19:18:33,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:38:0:2,,0,MF,38,0,2
+24,232,2020-04-20T19:18:33,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:550:0:4,,0,MF,550,0,4
+25,232,2020-04-20T19:18:33,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:73:0:5,,0,popular,73,0,5
+18,233,2020-04-20T19:17:52,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:271110:0:4,,0,popular,271110,0,4
+19,233,2020-04-20T19:17:52,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:674:0:4,,0,AE,674,0,4
+20,233,2020-04-20T19:17:52,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:12444:0:4,,0,AE,12444,0,4
+23,233,2020-04-20T19:18:02,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:329865:0:5,,0,MF,329865,0,5
+24,233,2020-04-20T19:18:02,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:293660:0:5,,0,MF,293660,0,5
+25,233,2020-04-20T19:18:02,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:14160:0:2,,0,popular,14160,0,2
+18,234,2020-04-20T19:17:55,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:550:0:1,,0,AE,550,0,1
+19,234,2020-04-20T19:17:55,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:64690:0:2,,0,popular,64690,0,2
+20,234,2020-04-20T19:17:55,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:2018:0:5,,0,AE,2018,0,5
+23,234,2020-04-20T19:18:06,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:6977:0:2,,0,popular,6977,0,2
+24,234,2020-04-20T19:18:06,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:6557:0:5,,0,MF,6557,0,5
+25,234,2020-04-20T19:18:06,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9880:0:5,,0,MF,9880,0,5
+18,235,2020-04-20T19:21:26,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:264644:0:5,,0,popular,264644,0,5
+19,235,2020-04-20T19:21:26,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:68718:0:5,,0,AE,68718,0,5
+20,235,2020-04-20T19:21:26,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:550:0:5,,0,AE,550,0,5
+23,235,2020-04-20T19:21:45,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:31011:0:5,,0,popular,31011,0,5
+24,235,2020-04-20T19:21:45,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:27205:0:5,,0,MF,27205,0,5
+25,235,2020-04-20T19:21:45,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:122:0:5,,0,MF,122,0,5
+18,238,2020-04-20T19:25:14,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:150540:0:3,,0,AE,150540,0,3
+19,238,2020-04-20T19:25:14,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:269149:0:4,,0,AE,269149,0,4
+20,238,2020-04-20T19:25:14,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:673:0:4,,0,popular,673,0,4
+23,238,2020-04-20T19:25:27,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:4951:0:4,,0,MF,4951,0,4
+24,238,2020-04-20T19:25:27,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:752:0:2,,0,popular,752,0,2
+25,238,2020-04-20T19:25:27,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9880:0:5,,0,MF,9880,0,5
+18,239,2020-04-20T19:28:37,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:272:0:1,,0,popular,272,0,1
+19,239,2020-04-20T19:28:37,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:634:0:4,,0,AE,634,0,4
+20,239,2020-04-20T19:28:37,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:509:0:5,,0,AE,509,0,5
+23,239,2020-04-20T19:28:44,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:8835:0:5,,0,MF,8835,0,5
+24,239,2020-04-20T19:28:44,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9880:0:5,,0,MF,9880,0,5
+25,239,2020-04-20T19:28:44,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:138843:0:1,,0,popular,138843,0,1
+18,251,2020-04-20T20:16:41,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:2062:0:2,,0,popular,2062,0,2
+19,251,2020-04-20T20:16:41,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:603:0:1,,0,AE,603,0,1
+20,251,2020-04-20T20:16:41,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:14:0:3,,0,AE,14,0,3
+23,251,2020-04-20T20:17:14,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:550:0:2,,0,MF,550,0,2
+24,251,2020-04-20T20:17:14,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:38:0:2,,0,MF,38,0,2
+25,251,2020-04-20T20:17:14,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:228150:0:2,,0,popular,228150,0,2
+18,252,2020-04-20T20:32:01,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:550:0:4,,0,popular,550,0,4
+19,252,2020-04-20T20:32:01,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:64688:0:4,,0,AE,64688,0,4
+20,252,2020-04-20T20:32:01,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:293660:0:2,,0,AE,293660,0,2
+23,252,2020-04-20T20:32:18,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:6557:0:4,,0,MF,6557,0,4
+24,252,2020-04-20T20:32:18,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:210577:0:4,,0,popular,210577,0,4
+25,252,2020-04-20T20:32:18,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9880:0:4,,0,MF,9880,0,4
+18,258,2020-04-20T21:05:10,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:602:1:5,,0,AE,602,1,5
+19,258,2020-04-20T21:05:10,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:603:0:3,,0,AE,603,0,3
+20,258,2020-04-20T21:05:10,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:324786:1:5,,0,popular,324786,1,5
+23,258,2020-04-20T21:05:29,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9714:0:5,,0,MF,9714,0,5
+24,258,2020-04-20T21:05:29,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:293660:0:4,,0,popular,293660,0,4
+25,258,2020-04-20T21:05:29,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:4951:0:4,,0,MF,4951,0,4
+18,261,2020-04-20T21:19:21,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:330459:1:3,,0,popular,330459,1,3
+19,261,2020-04-20T21:19:21,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:671:0:5,,0,AE,671,0,5
+20,261,2020-04-20T21:19:21,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:673:0:5,,0,AE,673,0,5
+23,261,2020-04-20T21:19:57,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:24021:0:5,,0,MF,24021,0,5
+24,261,2020-04-20T21:19:57,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:423:1:1,,0,popular,423,1,1
+25,261,2020-04-20T21:19:57,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:50619:0:5,,0,MF,50619,0,5
+19,262,2020-04-20T21:19:01,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:19995:0:3,,0,popular,19995,0,3
+20,262,2020-04-20T21:19:01,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:12445:1:5,,0,AE,12445,1,5
+21,262,2020-04-20T21:19:01,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:672:0:5,,0,AE,672,0,5
+24,262,2020-04-20T21:26:23,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:50619:1:4,,0,MF,50619,1,4
+25,262,2020-04-20T21:26:23,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:112949:1:3,,0,MF,112949,1,3
+26,262,2020-04-20T21:26:23,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:137113:1:3,,0,popular,137113,1,3
+18,263,2020-04-20T21:19:38,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:807:0:1,,0,popular,807,0,1
+19,263,2020-04-20T21:19:38,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:121:0:5,,0,AE,121,0,5
+20,263,2020-04-20T21:19:38,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:671:0:5,,0,AE,671,0,5
+23,263,2020-04-20T21:19:57,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:641:0:1,,0,popular,641,0,1
+24,263,2020-04-20T21:19:57,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:50619:0:5,,0,MF,50619,0,5
+25,263,2020-04-20T21:19:57,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:11247:0:3,,0,MF,11247,0,3
+18,266,2020-04-20T22:03:16,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:672:0:4,,0,AE,672,0,4
+19,266,2020-04-20T22:03:16,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:273248:0:1,,0,popular,273248,0,1
+20,266,2020-04-20T22:03:16,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:674:0:4,,0,AE,674,0,4
+23,266,2020-04-20T22:03:33,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:11529:0:4,,0,MF,11529,0,4
+24,266,2020-04-20T22:03:33,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:264644:0:4,,0,popular,264644,0,4
+25,266,2020-04-20T22:03:33,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:10735:0:1,,0,MF,10735,0,1
+18,267,2020-04-20T22:01:48,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:807:0:1,,0,popular,807,0,1
+19,267,2020-04-20T22:01:48,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:1824:0:2,,0,AE,1824,0,2
+20,267,2020-04-20T22:01:48,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:10096:0:2,,0,AE,10096,0,2
+23,267,2020-04-20T22:02:00,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:10735:0:5,,0,MF,10735,0,5
+24,267,2020-04-20T22:02:00,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:949:0:1,,0,popular,949,0,1
+25,267,2020-04-20T22:02:00,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9880:0:5,,0,MF,9880,0,5
+18,275,2020-04-20T22:19:46,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:550:0:3,,0,AE,550,0,3
+19,275,2020-04-20T22:19:46,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:38757:0:2,,0,popular,38757,0,2
+20,275,2020-04-20T22:19:46,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:155:0:3,,0,AE,155,0,3
+23,275,2020-04-20T22:19:56,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:244786:0:5,,0,MF,244786,0,5
+24,275,2020-04-20T22:19:56,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:101299:0:5,,0,popular,101299,0,5
+25,275,2020-04-20T22:19:56,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:76341:0:5,,0,MF,76341,0,5
+18,277,2020-04-20T22:35:41,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:293660:0:5,,0,AE,293660,0,5
+19,277,2020-04-20T22:35:41,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:4951:0:5,,0,AE,4951,0,5
+20,277,2020-04-20T22:35:41,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:672:0:1,,0,popular,672,0,1
+23,277,2020-04-20T22:35:59,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:155:0:5,,0,popular,155,0,5
+24,277,2020-04-20T22:35:59,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9655:0:5,,0,MF,9655,0,5
+25,277,2020-04-20T22:35:59,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:11247:0:3,,0,MF,11247,0,3
+18,279,2020-04-21T11:13:15,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:550:0:5,,0,AE,550,0,5
+19,279,2020-04-21T11:13:15,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:808:0:4,,0,popular,808,0,4
+20,279,2020-04-21T11:13:15,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:329865:0:4,,0,AE,329865,0,4
+23,279,2020-04-21T11:13:25,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:244786:0:4,,0,MF,244786,0,4
+24,279,2020-04-21T11:13:25,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:76341:0:5,,0,MF,76341,0,5
+25,279,2020-04-21T11:13:25,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:12:0:4,,0,popular,12,0,4
+18,280,2020-04-21T11:10:41,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:286217:0:5,,0,AE,286217,0,5
+19,280,2020-04-21T11:10:41,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:76203:0:5,,0,popular,76203,0,5
+20,280,2020-04-21T11:10:41,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:27205:0:5,,0,AE,27205,0,5
+23,280,2020-04-21T11:10:52,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:24021:0:4,,0,MF,24021,0,4
+24,280,2020-04-21T11:10:52,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:1124:0:3,,0,popular,1124,0,3
+25,280,2020-04-21T11:10:52,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:50619:0:4,,0,MF,50619,0,4
+18,281,2020-04-21T11:16:01,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:155:0:5,,0,AE,155,0,5
+19,281,2020-04-21T11:16:01,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:597:0:1,,0,popular,597,0,1
+20,281,2020-04-21T11:16:01,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:27205:0:5,,0,AE,27205,0,5
+23,281,2020-04-21T11:16:11,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:603:0:3,,0,MF,603,0,3
+24,281,2020-04-21T11:16:11,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:49047:0:2,,0,popular,49047,0,2
+25,281,2020-04-21T11:16:11,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:550:0:5,,0,MF,550,0,5
+18,282,2020-04-21T11:28:08,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:138843:0:2,,0,popular,138843,0,2
+19,282,2020-04-21T11:28:08,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:187017:0:5,,0,AE,187017,0,5
+20,282,2020-04-21T11:28:08,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:18785:0:5,,0,AE,18785,0,5
+23,282,2020-04-21T11:28:39,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:76341:0:2,,0,MF,76341,0,2
+24,282,2020-04-21T11:28:39,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:857:0:4,,0,popular,857,0,4
+25,282,2020-04-21T11:28:39,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:27205:0:3,,0,MF,27205,0,3
+18,283,2020-04-21T11:41:11,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:23483:0:5,,0,AE,23483,0,5
+19,283,2020-04-21T11:41:11,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:242582:1:1,,0,popular,242582,1,1
+20,283,2020-04-21T11:41:11,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:747:0:5,,0,AE,747,0,5
+23,283,2020-04-21T11:41:21,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:76341:0:2,,0,MF,76341,0,2
+24,283,2020-04-21T11:41:21,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:54138:0:1,,0,popular,54138,0,1
+25,283,2020-04-21T11:41:21,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:27205:0:5,,0,MF,27205,0,5
+18,284,2020-04-21T12:09:55,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:152601:0:4,,0,AE,152601,0,4
+19,284,2020-04-21T12:09:55,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:244786:0:5,,0,AE,244786,0,5
+20,284,2020-04-21T12:09:55,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:497:0:3,,0,popular,497,0,3
+23,284,2020-04-21T12:10:05,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:157336:0:5,,0,popular,157336,0,5
+24,284,2020-04-21T12:10:05,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:76341:0:5,,0,MF,76341,0,5
+25,284,2020-04-21T12:10:05,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:27205:0:5,,0,MF,27205,0,5
+18,286,2020-04-21T12:33:19,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:1726:0:5,,0,AE,1726,0,5
+19,286,2020-04-21T12:33:19,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:24428:0:5,,0,AE,24428,0,5
+20,286,2020-04-21T12:33:19,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:122:0:4,,0,popular,122,0,4
+23,286,2020-04-21T12:33:29,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:273248:0:3,,0,popular,273248,0,3
+24,286,2020-04-21T12:33:29,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:177572:0:4,,0,MF,177572,0,4
+25,286,2020-04-21T12:33:29,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:70160:0:5,,0,MF,70160,0,5
+18,287,2020-04-21T12:46:30,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:419430:0:5,,0,AE,419430,0,5
+19,287,2020-04-21T12:46:30,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:49018:0:5,,0,AE,49018,0,5
+20,287,2020-04-21T12:46:30,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:1124:1:1,,0,popular,1124,1,1
+23,287,2020-04-21T12:46:41,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:329865:0:1,,0,MF,329865,0,1
+24,287,2020-04-21T12:46:41,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:177572:0:1,,0,popular,177572,0,1
+25,287,2020-04-21T12:46:41,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:27205:0:1,,0,MF,27205,0,1
+18,289,2020-04-21T13:20:43,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:2105:0:5,,0,AE,2105,0,5
+19,289,2020-04-21T13:20:43,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:49026:0:5,,0,popular,49026,0,5
+20,289,2020-04-21T13:20:43,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:1271:0:5,,0,AE,1271,0,5
+23,289,2020-04-21T13:20:55,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:8835:0:5,,0,MF,8835,0,5
+24,289,2020-04-21T13:20:55,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9880:0:3,,0,MF,9880,0,3
+25,289,2020-04-21T13:20:55,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:381284:0:3,,0,popular,381284,0,3
+18,290,2020-04-21T13:17:43,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:767:0:5,,0,AE,767,0,5
+19,290,2020-04-21T13:17:43,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:808:0:1,,0,popular,808,0,1
+20,290,2020-04-21T13:17:43,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:12444:0:5,,0,AE,12444,0,5
+23,290,2020-04-21T13:18:15,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:269149:0:1,,0,MF,269149,0,1
+24,290,2020-04-21T13:18:15,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:177572:0:1,,0,MF,177572,0,1
+25,290,2020-04-21T13:18:15,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:1124:1:3,,0,popular,1124,1,3
+18,291,2020-04-21T13:29:17,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:120:0:3,,0,popular,120,0,3
+19,291,2020-04-21T13:29:17,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:1726:0:2,,0,AE,1726,0,2
+20,291,2020-04-21T13:29:17,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:12444:0:4,,0,AE,12444,0,4
+23,291,2020-04-21T13:29:30,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:293660:0:5,,0,MF,293660,0,5
+24,291,2020-04-21T13:29:30,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:77:0:4,,0,popular,77,0,4
+25,291,2020-04-21T13:29:30,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:27205:0:5,,0,MF,27205,0,5
+18,294,2020-04-21T13:32:48,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:24428:1:5,,0,AE,24428,1,5
+19,294,2020-04-21T13:32:48,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:187017:0:5,,0,AE,187017,0,5
+20,294,2020-04-21T13:32:48,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:98:0:4,,0,popular,98,0,4
+23,294,2020-04-21T13:33:07,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:200727:0:3,,0,MF,200727,0,3
+24,294,2020-04-21T13:33:07,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:54138:0:4,,0,popular,54138,0,4
+25,294,2020-04-21T13:33:07,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:112949:0:2,,0,MF,112949,0,2
+18,297,2020-04-21T14:07:41,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:75656:0:5,,0,popular,75656,0,5
+19,297,2020-04-21T14:07:41,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:157336:0:1,,0,AE,157336,0,1
+20,297,2020-04-21T14:07:41,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:286217:0:1,,0,AE,286217,0,1
+23,297,2020-04-21T14:07:53,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:244786:0:1,,0,MF,244786,0,1
+24,297,2020-04-21T14:07:53,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:76341:0:4,,0,MF,76341,0,4
+25,297,2020-04-21T14:07:53,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:121:0:3,,0,popular,121,0,3
+19,300,2020-04-21T14:12:13,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:329865:0:1,,0,AE,329865,0,1
+20,300,2020-04-21T14:12:13,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:393:0:1,,0,popular,393,0,1
+21,300,2020-04-21T14:12:13,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:286217:0:1,,0,AE,286217,0,1
+24,300,2020-04-21T14:12:22,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:244786:0:1,,0,MF,244786,0,1
+25,300,2020-04-21T14:12:22,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:76341:0:5,,0,MF,76341,0,5
+26,300,2020-04-21T14:12:22,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:152601:0:1,,0,popular,152601,0,1
+18,302,2020-04-21T14:23:45,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:118340:0:5,,0,AE,118340,0,5
+19,302,2020-04-21T14:23:45,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:64682:0:3,,0,popular,64682,0,3
+20,302,2020-04-21T14:23:45,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:24428:0:5,,0,AE,24428,0,5
+23,302,2020-04-21T14:23:55,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:334533:0:4,,0,popular,334533,0,4
+24,302,2020-04-21T14:23:55,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:155:0:5,,0,MF,155,0,5
+25,302,2020-04-21T14:23:55,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:27205:0:5,,0,MF,27205,0,5
+18,303,2020-04-21T15:25:01,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:269149:0:3,,0,AE,269149,0,3
+19,303,2020-04-21T15:25:01,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:27205:0:4,,0,AE,27205,0,4
+20,303,2020-04-21T15:25:01,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:36557:0:4,,0,popular,36557,0,4
+23,303,2020-04-21T15:25:22,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9880:0:4,,0,MF,9880,0,4
+24,303,2020-04-21T15:25:22,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:24021:0:4,,0,MF,24021,0,4
+25,303,2020-04-21T15:25:22,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:244786:0:3,,0,popular,244786,0,3
+18,304,2020-04-21T15:55:30,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:2062:0:4,,0,popular,2062,0,4
+19,304,2020-04-21T15:55:30,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:155:0:5,,0,AE,155,0,5
+20,304,2020-04-21T15:55:30,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:24428:0:5,,0,AE,24428,0,5
+23,304,2020-04-21T15:55:47,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:70160:0:5,,0,MF,70160,0,5
+24,304,2020-04-21T15:55:47,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:22881:0:5,,0,MF,22881,0,5
+25,304,2020-04-21T15:55:47,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:75656:0:5,,0,popular,75656,0,5
+18,307,2020-04-21T17:29:06,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:155:0:5,,0,AE,155,0,5
+19,307,2020-04-21T17:29:06,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:24428:0:5,,0,AE,24428,0,5
+20,307,2020-04-21T17:29:06,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:73:0:4,,0,popular,73,0,4
+23,307,2020-04-21T17:29:18,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:283995:0:4,,0,popular,283995,0,4
+24,307,2020-04-21T17:29:18,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:293660:0:5,,0,MF,293660,0,5
+25,307,2020-04-21T17:29:18,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:76341:0:3,,0,MF,76341,0,3
+18,313,2020-04-21T17:38:37,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:119450:0:4,,0,popular,119450,0,4
+19,313,2020-04-21T17:38:37,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:121:0:5,,0,AE,121,0,5
+20,313,2020-04-21T17:38:37,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:122:0:5,,0,AE,122,0,5
+23,313,2020-04-21T17:38:51,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:10761:0:3,,0,MF,10761,0,3
+24,313,2020-04-21T17:38:51,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:107:0:3,,0,popular,107,0,3
+25,313,2020-04-21T17:38:51,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:10735:0:3,,0,MF,10735,0,3
+18,315,2020-04-21T19:21:55,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:120467:0:2,,0,popular,120467,0,2
+19,315,2020-04-21T19:21:55,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:1726:0:5,,0,AE,1726,0,5
+20,315,2020-04-21T19:21:55,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:271110:0:5,,0,AE,271110,0,5
+23,315,2020-04-21T19:22:02,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:76341:0:5,,0,MF,76341,0,5
+24,315,2020-04-21T19:22:02,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:27205:0:5,,0,MF,27205,0,5
+25,315,2020-04-21T19:22:02,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:259316:0:2,,0,popular,259316,0,2
+18,317,2020-04-22T13:39:42,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:20352:0:5,,0,AE,20352,0,5
+19,317,2020-04-22T13:39:42,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:269149:0:5,,0,AE,269149,0,5
+20,317,2020-04-22T13:39:42,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:146233:0:1,,0,popular,146233,0,1
+23,317,2020-04-22T13:39:54,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:293660:0:1,,0,MF,293660,0,1
+24,317,2020-04-22T13:39:54,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:27205:0:3,,0,MF,27205,0,3
+25,317,2020-04-22T13:39:54,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:673:0:1,,0,popular,673,0,1
+18,319,2020-04-22T15:33:03,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:671:0:3,,0,AE,671,0,3
+19,319,2020-04-22T15:33:03,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:381284:0:4,,0,popular,381284,0,4
+20,319,2020-04-22T15:33:03,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:673:0:3,,0,AE,673,0,3
+23,319,2020-04-22T15:33:46,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:146233:0:1,,0,popular,146233,0,1
+24,319,2020-04-22T15:33:46,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:10735:0:3,,0,MF,10735,0,3
+25,319,2020-04-22T15:33:46,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:9880:0:5,,0,MF,9880,0,5
+18,322,2020-04-22T18:01:51,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:607:0:3,,0,AE,607,0,3
+19,322,2020-04-22T18:01:51,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:671:0:3,,0,popular,671,0,3
+20,322,2020-04-22T18:01:51,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:197:0:4,,0,AE,197,0,4
+23,322,2020-04-22T18:02:08,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:857:0:5,,0,MF,857,0,5
+24,322,2020-04-22T18:02:08,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:98:0:5,,0,MF,98,0,5
+25,322,2020-04-22T18:02:08,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:281957:0:4,,0,popular,281957,0,4
+18,323,2020-04-22T18:47:08,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:95:0:4,,0,AE,95,0,4
+19,323,2020-04-22T18:47:08,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:4951:0:5,,0,AE,4951,0,5
+20,323,2020-04-22T18:47:08,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:207703:0:4,,0,popular,207703,0,4
+23,323,2020-04-22T18:47:26,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:20927:0:2,,0,MF,20927,0,2
+24,323,2020-04-22T18:47:26,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:25059:0:4,,0,MF,25059,0,4
+25,323,2020-04-22T18:47:26,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:334543:0:5,,0,popular,334543,0,5
+18,325,2020-04-24T01:55:19,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:675:0:5,,0,popular,675,0,5
+19,325,2020-04-24T01:55:19,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:14:0:4,,0,AE,14,0,4
+20,325,2020-04-24T01:55:19,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:603:0:5,,0,AE,603,0,5
+23,325,2020-04-24T01:55:48,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:38:0:5,,0,MF,38,0,5
+24,325,2020-04-24T01:55:48,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:6977:0:4,,0,popular,6977,0,4
+25,325,2020-04-24T01:55:48,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:550:0:5,,0,MF,550,0,5
+18,327,2020-04-26T14:46:24,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:603:0:5,,0,popular,603,0,5
+19,327,2020-04-26T14:46:24,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:12444:0:5,,0,AE,12444,0,5
+20,327,2020-04-26T14:46:24,no_explanation, [Algorithm:mid:imdbClicked:rated],AE:674:0:5,,0,AE,674,0,5
+23,327,2020-04-26T14:46:31,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:293660:0:5,,0,MF,293660,0,5
+24,327,2020-04-26T14:46:31,no_explanation, [Algorithm:mid:imdbClicked:rated],popular:281957:0:3,,0,popular,281957,0,3
+25,327,2020-04-26T14:46:31,no_explanation, [Algorithm:mid:imdbClicked:rated],MF:76341:0:2,,0,MF,76341,0,2
+39,259,2020-04-20T21:14:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:120467:1:0:1,,1,popular,120467,0,1
+40,259,2020-04-20T21:14:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:14:5:0:3,,5,AE,14,0,3
+41,259,2020-04-20T21:14:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:497:5:0:5,,5,AE,497,0,5
+44,259,2020-04-20T21:14:34,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:120:5:0:1,,5,MF,120,0,1
+45,259,2020-04-20T21:14:34,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:122:5:0:1,,5,MF,122,0,1
+46,259,2020-04-20T21:14:34,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:10674:1:0:3,,1,popular,10674,0,3
+40,203,2020-04-19T20:23:15,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:121:4:1:4,,4,AE,121,1,4
+41,203,2020-04-19T20:23:15,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:137106:1:0:5,,1,popular,137106,0,5
+42,203,2020-04-19T20:23:15,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:120:2:1:5,,2,AE,120,1,5
+45,203,2020-04-19T20:23:22,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:329865:7:0:2,,7,MF,329865,0,2
+46,203,2020-04-19T20:23:22,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:155:5:0:5,,5,MF,155,0,5
+47,203,2020-04-19T20:23:22,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:82702:1:1:5,,1,popular,82702,1,5
+41,204,2020-04-19T20:32:35,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:100402:5:0:5,,5,AE,100402,0,5
+42,204,2020-04-19T20:32:35,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:313369:1:1:2,,1,popular,313369,1,2
+43,204,2020-04-19T20:32:35,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:1726:4:1:5,,4,AE,1726,1,5
+46,204,2020-04-19T20:32:51,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:2062:1:1:2,,1,popular,2062,1,2
+47,204,2020-04-19T20:32:51,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:140607:5:0:4,,5,MF,140607,0,4
+48,204,2020-04-19T20:32:51,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:329865:7:1:2,,7,MF,329865,1,2
+39,205,2020-04-19T21:04:33,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:10096:6:0:5,,6,AE,10096,0,5
+40,205,2020-04-19T21:04:33,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:1493:5:0:5,,5,AE,1493,0,5
+41,205,2020-04-19T21:04:33,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:949:1:0:5,,1,popular,949,0,5
+44,205,2020-04-19T21:04:39,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:10735:7:0:5,,7,MF,10735,0,5
+45,205,2020-04-19T21:04:39,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:11036:1:0:5,,1,popular,11036,0,5
+46,205,2020-04-19T21:04:39,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:50619:7:0:5,,7,MF,50619,0,5
+39,206,2020-04-20T08:15:06,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:603:6:0:4,,6,AE,603,0,4
+40,206,2020-04-20T08:15:06,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:22:1:0:5,,1,popular,22,0,5
+41,206,2020-04-20T08:15:06,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:550:5:0:3,,5,AE,550,0,3
+44,206,2020-04-20T08:15:31,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:807:1:0:2,,1,popular,807,0,2
+45,206,2020-04-20T08:15:31,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:329865:7:0:3,,7,MF,329865,0,3
+46,206,2020-04-20T08:15:31,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:76341:5:0:4,,5,MF,76341,0,4
+39,207,2020-04-20T08:23:49,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:674:1:0:5,,1,popular,674,0,5
+40,207,2020-04-20T08:23:49,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:16996:7:0:3,,7,AE,16996,0,3
+41,207,2020-04-20T08:23:49,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:4951:2:0:4,,2,AE,4951,0,4
+44,207,2020-04-20T08:24:29,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:50620:4:0:3,,4,MF,50620,0,3
+45,207,2020-04-20T08:24:29,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:12405:1:1:1,,1,popular,12405,1,1
+46,207,2020-04-20T08:24:29,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:11247:7:0:3,,7,MF,11247,0,3
+39,208,2020-04-20T09:30:10,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:157336:2:0:2,,2,AE,157336,0,2
+40,208,2020-04-20T09:30:10,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:603:5:0:3,,5,AE,603,0,3
+41,208,2020-04-20T09:30:10,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:100402:1:0:2,,1,popular,100402,0,2
+44,208,2020-04-20T09:30:36,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:296096:1:0:4,,1,popular,296096,0,4
+45,208,2020-04-20T09:30:36,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:752:5:0:4,,5,MF,752,0,4
+46,208,2020-04-20T09:30:36,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:38:4:0:2,,4,MF,38,0,2
+39,209,2020-04-20T10:40:38,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:197:5:0:1,,5,AE,197,0,1
+40,209,2020-04-20T10:40:38,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:12405:1:0:1,,1,popular,12405,0,1
+41,209,2020-04-20T10:40:38,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:550:5:0:1,,5,AE,550,0,1
+44,209,2020-04-20T10:40:54,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:27205:2:0:4,,2,MF,27205,0,4
+45,209,2020-04-20T10:40:54,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:122:6:0:1,,6,MF,122,0,1
+46,209,2020-04-20T10:40:54,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:453:1:0:4,,1,popular,453,0,4
+39,211,2020-04-20T12:29:27,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:603:6:0:5,,6,AE,603,0,5
+40,211,2020-04-20T12:29:27,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:27205:5:0:5,,5,AE,27205,0,5
+41,211,2020-04-20T12:29:27,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:1402:1:0:5,,1,popular,1402,0,5
+44,211,2020-04-20T12:29:40,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:121:2:0:5,,2,MF,121,0,5
+45,211,2020-04-20T12:29:40,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:120:5:0:5,,5,MF,120,0,5
+46,211,2020-04-20T12:29:40,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:423:1:0:5,,1,popular,423,0,5
+39,212,2020-04-20T14:23:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:122:4:0:2,,4,AE,122,0,2
+40,212,2020-04-20T14:23:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:121:4:0:2,,4,AE,121,0,2
+41,212,2020-04-20T14:23:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:550:1:0:1,,1,popular,550,0,1
+44,212,2020-04-20T14:23:41,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:293660:1:0:5,,1,popular,293660,0,5
+45,212,2020-04-20T14:23:41,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:50619:7:0:4,,7,MF,50619,0,4
+46,212,2020-04-20T14:23:41,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:10735:7:0:2,,7,MF,10735,0,2
+39,213,2020-04-20T15:29:33,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:675:5:0:5,,5,AE,675,0,5
+40,213,2020-04-20T15:29:33,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:12444:4:0:5,,4,AE,12444,0,5
+41,213,2020-04-20T15:29:33,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:752:1:0:4,,1,popular,752,0,4
+44,213,2020-04-20T15:29:40,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:140607:7:0:3,,7,MF,140607,0,3
+45,213,2020-04-20T15:29:40,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:155:2:0:5,,2,MF,155,0,5
+46,213,2020-04-20T15:29:40,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:393:1:0:5,,1,popular,393,0,5
+39,216,2020-04-20T18:37:13,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:293660:1:0:5,,1,popular,293660,0,5
+40,216,2020-04-20T18:37:13,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:12444:2:0:5,,2,AE,12444,0,5
+41,216,2020-04-20T18:37:13,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:674:4:0:5,,4,AE,674,0,5
+44,216,2020-04-20T18:37:34,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:313369:7:0:2,,7,MF,313369,0,2
+45,216,2020-04-20T18:37:34,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:140420:7:0:3,,7,MF,140420,0,3
+46,216,2020-04-20T18:37:34,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:19995:1:0:5,,1,popular,19995,0,5
+39,219,2020-04-20T18:44:58,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:18239:5:0:5,,5,AE,18239,0,5
+40,219,2020-04-20T18:44:58,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:70160:7:0:5,,7,AE,70160,0,5
+41,219,2020-04-20T18:44:58,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:674:1:0:5,,1,popular,674,0,5
+44,219,2020-04-20T18:45:25,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:5915:1:0:3,,1,popular,5915,0,3
+45,219,2020-04-20T18:45:25,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:9655:2:0:5,,2,MF,9655,0,5
+46,219,2020-04-20T18:45:25,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:11247:7:0:2,,7,MF,11247,0,2
+39,220,2020-04-20T18:44:59,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:12445:1:0:1,,1,popular,12445,0,1
+40,220,2020-04-20T18:44:59,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:249164:4:0:3,,4,AE,249164,0,3
+41,220,2020-04-20T18:44:59,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:597:7:0:5,,7,AE,597,0,5
+45,220,2020-04-20T18:45:17,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:4951:7:0:3,,7,MF,4951,0,3
+46,220,2020-04-20T18:45:17,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:862:1:0:1,,1,popular,862,0,1
+47,220,2020-04-20T18:45:17,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:6557:7:0:2,,7,MF,6557,0,2
+39,223,2020-04-20T18:47:54,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:550:5:0:5,,5,AE,550,0,5
+40,223,2020-04-20T18:47:54,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:266856:1:0:5,,1,popular,266856,0,5
+41,223,2020-04-20T18:47:54,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:603:6:0:4,,6,AE,603,0,4
+44,223,2020-04-20T18:48:12,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:193610:7:0:1,,7,MF,193610,0,1
+45,223,2020-04-20T18:48:12,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:8358:1:0:2,,1,popular,8358,0,2
+46,223,2020-04-20T18:48:12,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:111969:7:0:2,,7,MF,111969,0,2
+39,224,2020-04-20T18:46:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:672:1:0:5,,1,popular,672,0,5
+40,224,2020-04-20T18:46:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:12445:6:0:5,,6,AE,12445,0,5
+41,224,2020-04-20T18:46:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:673:2:0:5,,2,AE,673,0,5
+44,224,2020-04-20T18:46:32,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:10735:2:0:5,,2,MF,10735,0,5
+45,224,2020-04-20T18:46:32,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:87827:1:0:3,,1,popular,87827,0,3
+46,224,2020-04-20T18:46:32,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:24021:7:0:5,,7,MF,24021,0,5
+39,225,2020-04-20T18:54:14,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:27205:2:0:5,,2,AE,27205,0,5
+40,225,2020-04-20T18:54:14,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:18239:2:0:5,,2,AE,18239,0,5
+41,225,2020-04-20T18:54:14,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:24:1:0:5,,1,popular,24,0,5
+44,225,2020-04-20T18:54:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:38:5:0:5,,5,MF,38,0,5
+45,225,2020-04-20T18:54:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:73:5:0:5,,5,MF,73,0,5
+46,225,2020-04-20T18:54:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:674:1:0:5,,1,popular,674,0,5
+41,226,2020-04-20T19:03:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:140607:1:0:2,,1,popular,140607,0,2
+42,226,2020-04-20T19:03:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:11355:7:0:2,,7,AE,11355,0,2
+43,226,2020-04-20T19:03:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:16996:6:0:5,,6,AE,16996,0,5
+46,226,2020-04-20T19:03:26,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:9714:7:0:3,,7,MF,9714,0,3
+47,226,2020-04-20T19:03:26,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:11247:7:0:5,,7,MF,11247,0,5
+48,226,2020-04-20T19:03:26,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:222935:1:0:5,,1,popular,222935,0,5
+40,228,2020-04-20T19:12:43,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:675:5:0:5,,5,AE,675,0,5
+41,228,2020-04-20T19:12:43,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:673:5:0:5,,5,AE,673,0,5
+42,228,2020-04-20T19:12:43,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:27205:1:0:4,,1,popular,27205,0,4
+46,228,2020-04-20T19:12:58,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:11130:7:0:1,,7,MF,11130,0,1
+47,228,2020-04-20T19:12:58,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:271110:1:0:5,,1,popular,271110,0,5
+48,228,2020-04-20T19:12:58,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:50619:7:0:1,,7,MF,50619,0,1
+41,229,2020-04-20T19:12:22,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:12444:2:0:5,,2,AE,12444,0,5
+42,229,2020-04-20T19:12:22,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:767:6:0:5,,6,AE,767,0,5
+43,229,2020-04-20T19:12:22,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:269149:1:0:2,,1,popular,269149,0,2
+46,229,2020-04-20T19:12:33,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:24021:5:0:5,,5,MF,24021,0,5
+47,229,2020-04-20T19:12:33,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:193610:7:0:2,,7,MF,193610,0,2
+48,229,2020-04-20T19:12:33,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:190859:1:0:5,,1,popular,190859,0,5
+39,230,2020-04-20T19:15:10,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:10096:6:0:4,,6,AE,10096,0,4
+40,230,2020-04-20T19:15:10,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:16996:6:0:3,,6,AE,16996,0,3
+41,230,2020-04-20T19:15:10,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:82702:1:0:1,,1,popular,82702,0,1
+44,230,2020-04-20T19:15:35,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:9714:7:0:4,,7,MF,9714,0,4
+45,230,2020-04-20T19:15:35,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:641:1:0:2,,1,popular,641,0,2
+46,230,2020-04-20T19:15:35,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:10735:7:0:4,,7,MF,10735,0,4
+39,232,2020-04-20T19:19:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:197:7:0:3,,7,AE,197,0,3
+40,232,2020-04-20T19:19:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:27205:2:0:2,,2,AE,27205,0,2
+41,232,2020-04-20T19:19:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:808:1:0:2,,1,popular,808,0,2
+44,232,2020-04-20T19:19:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:24:1:0:4,,1,popular,24,0,4
+45,232,2020-04-20T19:19:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:492:5:0:3,,5,MF,492,0,3
+46,232,2020-04-20T19:19:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:77:5:0:4,,5,MF,77,0,4
+39,233,2020-04-20T19:18:26,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:70:1:0:4,,1,popular,70,0,4
+40,233,2020-04-20T19:18:26,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:673:5:0:4,,5,AE,673,0,4
+41,233,2020-04-20T19:18:26,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:675:6:0:4,,6,AE,675,0,4
+44,233,2020-04-20T19:18:39,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:57158:1:0:5,,1,popular,57158,0,5
+45,233,2020-04-20T19:18:39,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:70160:5:0:5,,5,MF,70160,0,5
+46,233,2020-04-20T19:18:39,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:27205:6:0:5,,6,MF,27205,0,5
+39,234,2020-04-20T19:18:53,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:11529:7:0:4,,7,AE,11529,0,4
+40,234,2020-04-20T19:18:53,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:73:1:0:1,,1,popular,73,0,1
+41,234,2020-04-20T19:18:53,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:10096:2:0:5,,2,AE,10096,0,5
+44,234,2020-04-20T19:19:14,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:11247:7:0:5,,7,MF,11247,0,5
+45,234,2020-04-20T19:19:14,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:222935:1:0:4,,1,popular,222935,0,4
+46,234,2020-04-20T19:19:14,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:10735:7:0:5,,7,MF,10735,0,5
+39,235,2020-04-20T19:22:29,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:121:5:0:5,,5,AE,121,0,5
+40,235,2020-04-20T19:22:29,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:120:2:0:5,,2,AE,120,0,5
+41,235,2020-04-20T19:22:29,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:109424:1:0:2,,1,popular,109424,0,2
+44,235,2020-04-20T19:22:58,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:70:1:0:2,,1,popular,70,0,2
+45,235,2020-04-20T19:22:58,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:103328:7:0:4,,7,MF,103328,0,4
+46,235,2020-04-20T19:22:58,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:38:4:0:5,,4,MF,38,0,5
+39,238,2020-04-20T19:25:52,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:12444:5:0:4,,5,AE,12444,0,4
+40,238,2020-04-20T19:25:52,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:8835:5:0:5,,5,AE,8835,0,5
+41,238,2020-04-20T19:25:52,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:381284:1:0:4,,1,popular,381284,0,4
+44,238,2020-04-20T19:26:04,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:10735:7:0:5,,7,MF,10735,0,5
+45,238,2020-04-20T19:26:04,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:672:1:0:4,,1,popular,672,0,4
+46,238,2020-04-20T19:26:04,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:6557:7:0:5,,7,MF,6557,0,5
+39,239,2020-04-20T19:29:44,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:597:7:0:5,,7,AE,597,0,5
+40,239,2020-04-20T19:29:44,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:155:1:0:1,,1,popular,155,0,1
+41,239,2020-04-20T19:29:44,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:11355:7:1:3,,7,AE,11355,1,3
+44,239,2020-04-20T19:30:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:13475:1:0:1,,1,popular,13475,0,1
+45,239,2020-04-20T19:30:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:6557:7:0:5,,7,MF,6557,0,5
+46,239,2020-04-20T19:30:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:10735:4:0:5,,4,MF,10735,0,5
+39,251,2020-04-20T20:18:18,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:597:7:0:5,,7,AE,597,0,5
+40,251,2020-04-20T20:18:18,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:671:1:0:2,,1,popular,671,0,2
+41,251,2020-04-20T20:18:18,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:544:5:0:4,,5,AE,544,0,4
+44,251,2020-04-20T20:18:57,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:76203:1:0:3,,1,popular,76203,0,3
+45,251,2020-04-20T20:18:57,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:141:7:0:1,,7,MF,141,0,1
+46,251,2020-04-20T20:18:57,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:77:7:0:2,,7,MF,77,0,2
+39,252,2020-04-20T20:32:50,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:10096:2:0:5,,2,AE,10096,0,5
+40,252,2020-04-20T20:32:50,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:275:1:0:3,,1,popular,275,0,3
+41,252,2020-04-20T20:32:50,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:10625:7:0:5,,7,AE,10625,0,5
+44,252,2020-04-20T20:33:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:8835:7:0:4,,7,MF,8835,0,4
+45,252,2020-04-20T20:33:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:272:1:0:1,,1,popular,272,0,1
+46,252,2020-04-20T20:33:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:2018:7:0:4,,7,MF,2018,0,4
+39,258,2020-04-20T21:05:57,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:96721:1:0:5,,1,popular,96721,0,5
+40,258,2020-04-20T21:05:57,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:286217:5:0:5,,5,AE,286217,0,5
+41,258,2020-04-20T21:05:57,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:607:2:0:5,,2,AE,607,0,5
+44,258,2020-04-20T21:06:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:393:1:0:4,,1,popular,393,0,4
+45,258,2020-04-20T21:06:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:9880:7:0:2,,7,MF,9880,0,2
+46,258,2020-04-20T21:06:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:6557:7:0:2,,7,MF,6557,0,2
+39,261,2020-04-20T21:20:47,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:137113:1:1:1,,1,popular,137113,1,1
+40,261,2020-04-20T21:20:47,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:674:2:0:5,,2,AE,674,0,5
+41,261,2020-04-20T21:20:47,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:12444:2:0:5,,2,AE,12444,0,5
+44,261,2020-04-20T21:21:18,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:118340:1:0:5,,1,popular,118340,0,5
+45,261,2020-04-20T21:21:18,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:112949:7:1:2,,7,MF,112949,1,2
+46,261,2020-04-20T21:21:18,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:9655:7:0:5,,7,MF,9655,0,5
+40,262,2020-04-20T21:26:54,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:675:5:0:5,,5,AE,675,0,5
+41,262,2020-04-20T21:26:54,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:297762:1:0:4,,1,popular,297762,0,4
+42,262,2020-04-20T21:26:54,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:12444:4:0:5,,4,AE,12444,0,5
+45,262,2020-04-20T21:27:13,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:24021:2:0:2,,2,MF,24021,0,2
+46,262,2020-04-20T21:27:13,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:109424:1:0:5,,1,popular,109424,0,5
+47,262,2020-04-20T21:27:13,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:193610:7:0:4,,7,MF,193610,0,4
+39,263,2020-04-20T21:21:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:122:5:0:5,,5,AE,122,0,5
+40,263,2020-04-20T21:21:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:120:5:0:5,,5,AE,120,0,5
+41,263,2020-04-20T21:21:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:324786:1:0:1,,1,popular,324786,0,1
+44,263,2020-04-20T21:21:53,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:54138:1:0:4,,1,popular,54138,0,4
+45,263,2020-04-20T21:21:53,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:11130:7:0:4,,7,MF,11130,0,4
+46,263,2020-04-20T21:21:53,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:10735:7:0:1,,7,MF,10735,0,1
+39,266,2020-04-20T22:04:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:675:5:0:4,,5,AE,675,0,4
+40,266,2020-04-20T22:04:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:862:1:0:1,,1,popular,862,0,1
+41,266,2020-04-20T22:04:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:671:2:0:4,,2,AE,671,0,4
+44,266,2020-04-20T22:04:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:627:1:0:5,,1,popular,627,0,5
+45,266,2020-04-20T22:04:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:6557:7:0:1,,7,MF,6557,0,1
+46,266,2020-04-20T22:04:19,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:50619:7:0:1,,7,MF,50619,0,1
+39,267,2020-04-20T22:02:22,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:11529:7:0:1,,7,AE,11529,0,1
+40,267,2020-04-20T22:02:22,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:11355:7:0:1,,7,AE,11355,0,1
+41,267,2020-04-20T22:02:22,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:96721:1:0:3,,1,popular,96721,0,3
+44,267,2020-04-20T22:02:35,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:11137:2:0:4,,2,MF,11137,0,4
+45,267,2020-04-20T22:02:35,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:11247:7:0:4,,7,MF,11247,0,4
+46,267,2020-04-20T22:02:35,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:76341:1:0:1,,1,popular,76341,0,1
+39,275,2020-04-20T22:20:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:273248:1:0:1,,1,popular,273248,0,1
+40,275,2020-04-20T22:20:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:157336:6:0:5,,6,AE,157336,0,5
+41,275,2020-04-20T22:20:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:603:6:0:5,,6,AE,603,0,5
+44,275,2020-04-20T22:20:35,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:329865:7:0:5,,7,MF,329865,0,5
+45,275,2020-04-20T22:20:35,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:293660:5:0:5,,5,MF,293660,0,5
+46,275,2020-04-20T22:20:35,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:18:1:0:5,,1,popular,18,0,5
+39,277,2020-04-20T22:36:56,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:127585:1:0:5,,1,popular,127585,0,5
+40,277,2020-04-20T22:36:56,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:269149:5:0:4,,5,AE,269149,0,4
+41,277,2020-04-20T22:36:56,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:64688:4:0:4,,4,AE,64688,0,4
+44,277,2020-04-20T22:37:23,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:141:1:0:1,,1,popular,141,0,1
+45,277,2020-04-20T22:37:23,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:112949:7:0:4,,7,MF,112949,0,4
+46,277,2020-04-20T22:37:23,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:50619:7:0:5,,7,MF,50619,0,5
+39,279,2020-04-21T11:14:04,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:157336:2:0:4,,2,AE,157336,0,4
+40,279,2020-04-21T11:14:04,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:862:1:0:4,,1,popular,862,0,4
+41,279,2020-04-21T11:14:04,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:150540:5:0:5,,5,AE,150540,0,5
+44,279,2020-04-21T11:14:16,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:122:5:0:3,,5,MF,122,0,3
+45,279,2020-04-21T11:14:16,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:38:5:0:4,,5,MF,38,0,4
+46,279,2020-04-21T11:14:16,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:68718:1:0:4,,1,popular,68718,0,4
+39,280,2020-04-21T11:11:06,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:8966:3:0:4,,3,AE,8966,0,4
+40,280,2020-04-21T11:11:06,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:50014:1:0:2,,1,popular,50014,0,2
+41,280,2020-04-21T11:11:06,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:106646:2:0:5,,2,AE,106646,0,5
+44,280,2020-04-21T11:11:15,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:77:1:0:3,,1,popular,77,0,3
+45,280,2020-04-21T11:11:15,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:193610:7:0:3,,7,MF,193610,0,3
+46,280,2020-04-21T11:11:15,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:112949:7:0:4,,7,MF,112949,0,4
+39,281,2020-04-21T11:16:37,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:96721:1:0:3,,1,popular,96721,0,3
+40,281,2020-04-21T11:16:37,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:1124:2:0:5,,2,AE,1124,0,5
+41,281,2020-04-21T11:16:37,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:77:2:0:5,,2,AE,77,0,5
+44,281,2020-04-21T11:16:46,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:122:5:0:5,,5,MF,122,0,5
+45,281,2020-04-21T11:16:46,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:293660:1:0:5,,1,popular,293660,0,5
+46,281,2020-04-21T11:16:46,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:752:5:0:5,,5,MF,752,0,5
+39,282,2020-04-21T11:29:13,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:550:5:0:4,,5,AE,550,0,4
+40,282,2020-04-21T11:29:13,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:99861:1:0:2,,1,popular,99861,0,2
+41,282,2020-04-21T11:29:13,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:45243:4:0:5,,4,AE,45243,0,5
+44,282,2020-04-21T11:29:33,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:283995:1:0:1,,1,popular,283995,0,1
+45,282,2020-04-21T11:29:33,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:155:7:0:2,,7,MF,155,0,2
+46,282,2020-04-21T11:29:33,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:122:5:0:2,,5,MF,122,0,2
+39,283,2020-04-21T11:41:39,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:603:5:0:5,,5,AE,603,0,5
+40,283,2020-04-21T11:41:39,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:19908:5:0:3,,5,AE,19908,0,3
+41,283,2020-04-21T11:41:39,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:24428:1:0:5,,1,popular,24428,0,5
+44,283,2020-04-21T11:41:47,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:152601:7:0:1,,7,MF,152601,0,1
+45,283,2020-04-21T11:41:47,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:244786:7:0:1,,7,MF,244786,0,1
+46,283,2020-04-21T11:41:47,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:9806:1:0:3,,1,popular,9806,0,3
+39,284,2020-04-21T12:10:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:100402:1:0:3,,1,popular,100402,0,3
+40,284,2020-04-21T12:10:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:264660:5:0:5,,5,AE,264660,0,5
+41,284,2020-04-21T12:10:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:120467:5:0:5,,5,AE,120467,0,5
+44,284,2020-04-21T12:10:47,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:293660:5:0:2,,5,MF,293660,0,2
+45,284,2020-04-21T12:10:47,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:329865:2:0:4,,2,MF,329865,0,4
+46,284,2020-04-21T12:10:47,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:862:1:0:4,,1,popular,862,0,4
+39,286,2020-04-21T12:34:17,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:121:4:0:4,,4,AE,121,0,4
+40,286,2020-04-21T12:34:17,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:10193:1:0:4,,1,popular,10193,0,4
+41,286,2020-04-21T12:34:17,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:120:6:0:5,,6,AE,120,0,5
+44,286,2020-04-21T12:34:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:76341:5:0:3,,5,MF,76341,0,3
+45,286,2020-04-21T12:34:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:27205:5:0:4,,5,MF,27205,0,4
+46,286,2020-04-21T12:34:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:64690:1:0:3,,1,popular,64690,0,3
+39,287,2020-04-21T12:47:06,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:300669:7:0:5,,7,AE,300669,0,5
+40,287,2020-04-21T12:47:06,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:863:1:0:2,,1,popular,863,0,2
+41,287,2020-04-21T12:47:06,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:259693:2:0:5,,2,AE,259693,0,5
+44,287,2020-04-21T12:47:27,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:181886:2:0:3,,2,MF,181886,0,3
+45,287,2020-04-21T12:47:27,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:228150:1:0:1,,1,popular,228150,0,1
+46,287,2020-04-21T12:47:27,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:103328:7:0:1,,7,MF,103328,0,1
+39,290,2020-04-21T13:18:36,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:675:2:0:5,,2,AE,675,0,5
+40,290,2020-04-21T13:18:36,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:98:1:0:5,,1,popular,98,0,5
+41,290,2020-04-21T13:18:36,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:673:4:0:5,,4,AE,673,0,5
+44,290,2020-04-21T13:19:16,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:131631:4:0:5,,4,MF,131631,0,5
+45,290,2020-04-21T13:19:16,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:1402:1:0:2,,1,popular,1402,0,2
+46,290,2020-04-21T13:19:16,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:329865:7:1:4,,7,MF,329865,1,4
+39,291,2020-04-21T13:29:52,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:37165:1:0:4,,1,popular,37165,0,4
+40,291,2020-04-21T13:29:52,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:118340:6:0:4,,6,AE,118340,0,4
+41,291,2020-04-21T13:29:52,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:767:5:0:3,,5,AE,767,0,3
+44,291,2020-04-21T13:30:10,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:10681:1:0:2,,1,popular,10681,0,2
+45,291,2020-04-21T13:30:10,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:244786:1:0:2,,1,MF,244786,0,2
+46,291,2020-04-21T13:30:10,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:155:2:0:3,,2,MF,155,0,3
+39,294,2020-04-21T13:33:30,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:73:1:0:3,,1,popular,73,0,3
+40,294,2020-04-21T13:33:30,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:118340:6:0:4,,6,AE,118340,0,4
+41,294,2020-04-21T13:33:30,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:100402:5:0:5,,5,AE,100402,0,5
+44,294,2020-04-21T13:33:47,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:603:1:0:5,,1,popular,603,0,5
+45,294,2020-04-21T13:33:47,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:120:6:0:5,,6,MF,120,0,5
+46,294,2020-04-21T13:33:47,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:122:5:0:5,,5,MF,122,0,5
+39,297,2020-04-21T14:08:18,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:269149:7:0:1,,7,AE,269149,0,1
+40,297,2020-04-21T14:08:18,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:603:6:0:1,,6,AE,603,0,1
+41,297,2020-04-21T14:08:18,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:7345:1:0:1,,1,popular,7345,0,1
+44,297,2020-04-21T14:08:26,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:329865:7:0:1,,7,MF,329865,0,1
+45,297,2020-04-21T14:08:26,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:293660:5:0:4,,5,MF,293660,0,4
+46,297,2020-04-21T14:08:26,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:106646:1:0:4,,1,popular,106646,0,4
+41,300,2020-04-21T14:12:48,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:1124:1:0:3,,1,popular,1124,0,3
+42,300,2020-04-21T14:12:48,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:603:6:0:1,,6,AE,603,0,1
+43,300,2020-04-21T14:12:48,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:157336:5:0:1,,5,AE,157336,0,1
+46,300,2020-04-21T14:12:59,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:177572:7:0:1,,7,MF,177572,0,1
+47,300,2020-04-21T14:12:59,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:293660:5:0:4,,5,MF,293660,0,4
+48,300,2020-04-21T14:12:59,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:672:1:0:4,,1,popular,672,0,4
+39,302,2020-04-21T14:24:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:603:6:0:5,,6,AE,603,0,5
+40,302,2020-04-21T14:24:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:1726:1:0:5,,1,popular,1726,0,5
+41,302,2020-04-21T14:24:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:293660:4:0:5,,4,AE,293660,0,5
+44,302,2020-04-21T14:24:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:244786:7:0:5,,7,MF,244786,0,5
+45,302,2020-04-21T14:24:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:76341:5:0:5,,5,MF,76341,0,5
+46,302,2020-04-21T14:24:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:137113:1:0:5,,1,popular,137113,0,5
+39,303,2020-04-21T15:26:07,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:603:5:0:4,,5,AE,603,0,4
+40,303,2020-04-21T15:26:07,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:155:2:0:4,,2,AE,155,0,4
+41,303,2020-04-21T15:26:07,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:9806:1:0:3,,1,popular,9806,0,3
+44,303,2020-04-21T15:26:23,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:190859:1:0:4,,1,popular,190859,0,4
+45,303,2020-04-21T15:26:23,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:9655:7:0:4,,7,MF,9655,0,4
+46,303,2020-04-21T15:26:23,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:50619:5:0:3,,5,MF,50619,0,3
+39,304,2020-04-21T15:56:12,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:11324:1:0:2,,1,popular,11324,0,2
+40,304,2020-04-21T15:56:12,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:68721:3:0:5,,3,AE,68721,0,5
+41,304,2020-04-21T15:56:12,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:1726:3:0:5,,3,AE,1726,0,5
+44,304,2020-04-21T15:56:32,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:334543:1:0:2,,1,popular,334543,0,2
+45,304,2020-04-21T15:56:32,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:76341:7:0:2,,7,MF,76341,0,2
+46,304,2020-04-21T15:56:32,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:27205:2:0:4,,2,MF,27205,0,4
+39,307,2020-04-21T17:29:46,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:603:5:0:5,,5,AE,603,0,5
+40,307,2020-04-21T17:29:46,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:118340:6:0:4,,6,AE,118340,0,4
+41,307,2020-04-21T17:29:46,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:747:1:0:4,,1,popular,747,0,4
+44,307,2020-04-21T17:29:56,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:329865:7:0:3,,7,MF,329865,0,3
+45,307,2020-04-21T17:29:56,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:244786:7:0:5,,7,MF,244786,0,5
+46,307,2020-04-21T17:29:56,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:18785:1:0:3,,1,popular,18785,0,3
+39,313,2020-04-21T17:39:11,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:603:5:0:4,,5,AE,603,0,4
+40,313,2020-04-21T17:39:11,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:296096:1:0:3,,1,popular,296096,0,3
+41,313,2020-04-21T17:39:11,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:27205:5:0:3,,5,AE,27205,0,3
+44,313,2020-04-21T17:39:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:9762:7:0:2,,7,MF,9762,0,2
+45,313,2020-04-21T17:39:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:50619:7:0:2,,7,MF,50619,0,2
+46,313,2020-04-21T17:39:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:745:1:0:3,,1,popular,745,0,3
+39,315,2020-04-21T19:23:09,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:100402:2:0:5,,2,AE,100402,0,5
+40,315,2020-04-21T19:23:09,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:155:5:0:5,,5,AE,155,0,5
+41,315,2020-04-21T19:23:09,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:106646:1:0:2,,1,popular,106646,0,2
+44,315,2020-04-21T19:23:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:140607:6:0:4,,6,MF,140607,0,4
+45,315,2020-04-21T19:23:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:329865:7:0:2,,7,MF,329865,0,2
+46,315,2020-04-21T19:23:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:10193:1:0:1,,1,popular,10193,0,1
+39,317,2020-04-22T13:40:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:266856:1:0:1,,1,popular,266856,0,1
+40,317,2020-04-22T13:40:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:14160:5:0:4,,5,AE,14160,0,4
+41,317,2020-04-22T13:40:21,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:150540:1:0:5,,1,AE,150540,0,5
+44,317,2020-04-22T13:40:41,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:115:1:1:4,,1,popular,115,1,4
+45,317,2020-04-22T13:40:41,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:140607:7:0:4,,7,MF,140607,0,4
+46,317,2020-04-22T13:40:41,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:177572:7:0:4,,7,MF,177572,0,4
+39,319,2020-04-22T15:34:36,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:12444:2:0:3,,2,AE,12444,0,3
+40,319,2020-04-22T15:34:36,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:10674:1:0:5,,1,popular,10674,0,5
+41,319,2020-04-22T15:34:36,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:674:4:0:3,,4,AE,674,0,3
+44,319,2020-04-22T15:35:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:11247:7:0:4,,7,MF,11247,0,4
+45,319,2020-04-22T15:35:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:6557:2:0:5,,2,MF,6557,0,5
+46,319,2020-04-22T15:35:02,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:272:1:0:1,,1,popular,272,0,1
+39,322,2020-04-22T18:02:44,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:640:1:0:3,,1,popular,640,0,3
+40,322,2020-04-22T18:02:44,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:27205:5:0:4,,5,AE,27205,0,4
+41,322,2020-04-22T18:02:44,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:9802:5:0:4,,5,AE,9802,0,4
+44,322,2020-04-22T18:02:53,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:453:1:0:5,,1,popular,453,0,5
+45,322,2020-04-22T18:02:53,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:122:6:0:2,,6,MF,122,0,2
+46,322,2020-04-22T18:02:53,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:120:5:0:2,,5,MF,120,0,2
+39,325,2020-04-24T01:56:22,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:27205:4:0:5,,4,AE,27205,0,5
+40,325,2020-04-24T01:56:22,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:155:5:0:5,,5,AE,155,0,5
+41,325,2020-04-24T01:56:22,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:118340:1:0:5,,1,popular,118340,0,5
+44,325,2020-04-24T01:58:58,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:242582:1:1:4,,1,popular,242582,1,4
+45,325,2020-04-24T01:58:58,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:122:2:0:5,,2,MF,122,0,5
+46,325,2020-04-24T01:58:58,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:120:2:0:5,,2,MF,120,0,5
+39,327,2020-04-26T14:47:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:862:1:0:4,,1,popular,862,0,4
+40,327,2020-04-26T14:47:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:675:4:0:4,,4,AE,675,0,4
+41,327,2020-04-26T14:47:28,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], AE:673:3:0:5,,3,AE,673,0,5
+44,327,2020-04-26T14:47:50,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], popular:329865:1:0:4,,1,popular,329865,0,4
+45,327,2020-04-26T14:47:50,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:155:6:0:5,,6,MF,155,0,5
+46,327,2020-04-26T14:47:50,with_explanation, [Algorithm:mID:explain_id:imdbClicked:rating], MF:122:6:1:5,,6,MF,122,1,5
